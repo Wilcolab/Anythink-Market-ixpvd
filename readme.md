@@ -10,4 +10,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+- Install Docker
+- `docker-compose up`
+
+That's it. The API is now running at <http://localhost:3000>, and the frontend is at <http://localhost:3001>.
